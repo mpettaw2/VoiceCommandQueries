@@ -1,0 +1,11 @@
+C:\vsprojects\VRecognition\VRecognition\bin\Debug\VRecognition.exe.config
+C:\vsprojects\VRecognition\VRecognition\bin\Debug\VRecognition.exe
+C:\vsprojects\VRecognition\VRecognition\bin\Debug\VRecognition.pdb
+C:\vsprojects\VRecognition\VRecognition\obj\Debug\VRecognition.csprojResolveAssemblyReference.cache
+C:\vsprojects\VRecognition\VRecognition\obj\Debug\VRecognition.Form1.resources
+C:\vsprojects\VRecognition\VRecognition\obj\Debug\VRecognition.Properties.Resources.resources
+C:\vsprojects\VRecognition\VRecognition\obj\Debug\VRecognition.csproj.GenerateResource.Cache
+C:\vsprojects\VRecognition\VRecognition\obj\Debug\VRecognition.exe
+C:\vsprojects\VRecognition\VRecognition\obj\Debug\VRecognition.pdb
+C:\vsprojects\VRecognition\VRecognition\bin\Debug\nunit.framework.dll
+C:\vsprojects\VRecognition\VRecognition\bin\Debug\nunit.framework.xml
