@@ -27,7 +27,7 @@ namespace VRecognition
         }
         
         public void startConn(string commandItem, DataGridView item) {
-            SqlConnection con2 = new SqlConnection("Data Source=" + ServerName + ";Initial Catalog=" + DbName + ";User ID=sa;Password=Aydian21");
+            SqlConnection con2 = new SqlConnection("Data Source=" + ServerName + ";Initial Catalog=" + DbName + ";User ID=sa;Password=<password>");
             using (var con =con2)
             {
                 SqlCommand cmd = new SqlCommand(commandItem, con);
